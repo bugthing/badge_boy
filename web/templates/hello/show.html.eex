@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <h2>BadgeBoy from <%= @messenger %>!</h2>
+</div>
+
